@@ -10,3 +10,4 @@ from facefusion import installer
 
 if __name__ == '__main__':
 	installer.cli()
+
